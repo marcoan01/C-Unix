@@ -1,0 +1,44 @@
+The number of arguments is 1
+I am inside of the procedure :) 
+./myprogram
+Running myprogram with 0 arguments 
+Stdout and stderr appended to stdout.log and stderr.log respectively 
+The number of arguments is 2
+I am inside of the procedure :) 
+./myprogram
+abc
+Running myprogram with 2 arguments 
+Stdout and stderr appended to stdout.log and stderr.log respectively 
+The number of arguments is 7
+I am inside of the procedure :) 
+./myprogram
+a
+b
+c
+d
+e
+f
+Running my program with 7 arguments 
+Stdout and stderr appended to stdout.log and stder.log respectively 
+Running myprogram with 0 arguments 
+Stdout and stderr appended to stdout.log and stderr.log respectively 
+The number of arguments is 1
+I am inside of the procedure :) 
+./myprogram
+Running myprogram with 2 arguments 
+Stdout and stderr appended to stdout.log and stderr.log respectively 
+The number of arguments is 2
+I am inside of the procedure :) 
+./myprogram
+abc
+Running my program with 7 arguments 
+Stdout and stderr appended to stdout.log and stder.log respectively 
+The number of arguments is 7
+I am inside of the procedure :) 
+./myprogram
+a
+b
+c
+d
+e
+f

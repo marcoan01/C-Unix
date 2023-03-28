@@ -1,0 +1,1601 @@
+Script started on Sat 06 Feb 2021 02:20:29 PM CST
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} script --apend [K[K[K[Koe[K[Kpend --timing=script.timing
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} la[Ks 0qa[K[K[K-al
+total 1544
+drwx--x--x   7 mad190003 se      761 Feb  6 14:20 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rw-------   1 mad190003 se       18 Feb  6 14:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se        0 Feb  6 14:09 typescript
+-rw-------   1 mad190003 se       67 Feb  6 14:10 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
+-rw-r--r--   1 mad190003 se     6733 Nov 28  2019 .Xdefaults.maker
+-rw-r--r--   1 mad190003 se     1384 Nov 28  2019 .xserverrc
+-rw-r--r--   1 mad190003 se      393 Nov 28  2019 .xsession
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} sci[Kript -- [Kape[Kpend --timing+[K-[K+[K=script.timinh
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} script --append --timing [K=script.timing
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} ecams[K[K[K[Kmacs [K[K[K[K[K[Kg++ main.cc
+g++: error: main.cc: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} emcas [K[K[K[Kac s[K[Ks -nw main.cc
+[?1049h[?12;25h[?1h=[H[2J[59d[K[?1049h[?12;25h[?1h=[H[2J[58d[?25l[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Fundamental) ---------------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/desktop-entry-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;87H[?25ldone[H
+[?12l[?25h[?12;25h[59;49H[?25lsystemtap-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;78H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/systemtap-init.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                                                                                                                                         [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Lisp Interaction) ----------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[59d[?25l(New file)[K[H
+[?12l[?25h[?12;25h[59d[?25lLoading cc-langs...[H
+[?12l[?25h[?12;25h[59;20H[?25ldone[H
+[?12l[?25h[?12;25h[59d[?25lLoading cc-langs...done[K[H[7mFile Edit Options Buffers Tools C++ Help                                                                                                                                                                      [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:----F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L1     (C++/l Abbrev) --------------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[K[2d[?25lg[58;6H[7m**[0m[39;49m[27m[2;2H[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[K[K[K[K[?25l#[?12l[?25h[?12;25h[?25l[1m[34m#i[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34mn[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34mc[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34ml[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34mu[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34md[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34me[0m[39;49m[?12l[?25h[?12;25h[C[?25l[32m<[39;49m[?12l[?25h[?12;25h[?25l[32ms[39;49m[?12l[?25h[?12;25h[?25l[32mt[39;49m[?12l[?25h[?12;25h[?25l[32md[39;49m[?12l[?25h[?12;25h[?25l[32mi[39;49m[?12l[?25h[?12;25h[?25l[32mo[39;49m[?12l[?25h[?12;25h[?25l[32m.[39;49m[?12l[?25h[?12;25h[?25l[32mh[39;49m[?12l[?25h[?12;25h[?25l[32m>[39;49m[?12l[?25h[?12;25h[58;34H[?25l[7m2[0m[39;49m[27m[H
+
+[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25l[1m[36musing[0m[39;49m[?12l[?25h[?12;25h[C[?25l[32mn[39;49m[?12l[?25h[?12;25h[K[C[?25lusin[K[?12l[?25h[?12;25h[K[K[K[58;34H[?25l[7m3[0m[39;49m[27m[4;1H[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25liu[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[K[K[?25ln[?12l[?25h[?12;25h[?25l[1m[36musing[0m[39;49m[?12l[?25h[?12;25h[C[?25l[32mn[39;49m[?12l[?25h[?12;25h[?25l[32ma[39;49m[?12l[?25h[?12;25h[?25l[32mm[39;49m[?12l[?25h[?12;25h[?25l[32me[39;49m[?12l[?25h[?12;25h[?25l[32ms[39;49m[?12l[?25h[?12;25h[?25l[32mp[39;49m[?12l[?25h[?12;25h[?25l[32ma[39;49m[?12l[?25h[?12;25h[?25l[32mc[39;49m[?12l[?25h[?12;25h[4;7H[?25l[1m[36mnamespace[0m[39;49m[?12l[?25h[?12;25h	[?25l[35ms[39;49m[?12l[?25h[?12;25h[?25l[35mt[39;49m[?12l[?25h[?12;25h[?25l[35md[39;49m[?12l[?25h[?12;25h[?25l:[?12l[?25h[?12;25h[58;34H[?25l[7m4[0m[39;49m[27m[5;1H[?12l[?25h[?12;25h[58;34H[?25l[7m3[0m[39;49m[27m[4;21H[?12l[?25h[?12;25h[K[?25l[35ml[39;49m[?12l[?25h[?12;25h[K[?25l[35ml[39;49m[?12l[?25h[?12;25h[K[?25l;[?12l[?25h[?12;25h[58;34H[?25l[7m4[0m[39;49m[27m[5;1H[?12l[?25h[?12;25h[58;34H[?25l[7m5[0m[39;49m[27m[6;1H[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25l[32mint[39;49m[?12l[?25h[?12;25h[C[?25l[33mm[39;49m[?12l[?25h[?12;25h[?25l[33ma[39;49m[?12l[?25h[?12;25h[?25l[33mi[39;49m[?12l[?25h[?12;25h[?25l[33mn[39;49m[?12l[?25h[?12;25h[?25l[1m[34mmain[0m[39;49m([?12l[?25h[?12;25h[?25l)[?12l[?25h[?12;25h[58;34H[?25l[7m6[0m[39;49m[27m[7;1H[?12l[?25h[?12;25h[?25l{[?12l[?25h[?12;25h[58;34H[?25l[7m7[0m[39;49m[27m[8;1H[?12l[?25h[?12;25h[58;34H[?25l[7m8[0m[39;49m[27m[9;1H[?12l[?25h[?12;25h[C[?25lc[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[K[K[K[9;3H[?25lc[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h	[?25l<[?12l[?25h[?12;25h[?25l<[?12l[?25h[?12;25h[C[?25l[1m[31m"[0m[39;49m[?12l[?25h[?12;25h[?25l[32mH[39;49m[?12l[?25h[?12;25h[?25l[32mE[39;49m[?12l[?25h[?12;25h[K[?25l[32me[39;49m[?12l[?25h[?12;25h[?25l[32ml[39;49m[?12l[?25h[?12;25h[?25l[32ml[39;49m[?12l[?25h[?12;25h[?25l[32mo[39;49m[?12l[?25h[?12;25h[?25l[32m [39;49m[?12l[?25h[?12;25h[?25l[32mW[39;49m[?12l[?25h[?12;25h[?25l[32mo[39;49m[?12l[?25h[?12;25h[?25l[32mr[39;49m[?12l[?25h[?12;25h[?25l[32ml[39;49m[?12l[?25h[?12;25h[?25l[32md[39;49m[?12l[?25h[?12;25h[?25l[32m [39;49m[?12l[?25h[?12;25h[K[?25l[32m:[39;49m[?12l[?25h[?12;25h[K[?25l[32m [39;49m[?12l[?25h[?12;25h[9;11H[?25l[32m"Hello World "[39;49m[?12l[?25h[?12;25h[C[?25l<[?12l[?25h[?12;25h[?25l<[?12l[?25h[?12;25h[C[?25le[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25l:[?12l[?25h[?12;25h[K[?25ll[?12l[?25h[?12;25h[K[?25l:[?12l[?25h[?12;25h[K[?25l;[?12l[?25h[?12;25h[58d[?25l[7m9[0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m10[0m[39;49m[27m[11;1H[?12l[?25h[?12;25h[C[C[?25lr[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25l[1m[36mreturn[0m[39;49m[?12l[?25h[?12;25h[C[?25l0[?12l[?25h[?12;25h[?25l;[?12l[?25h[?12;25h[58;35H[?25l[7m1[0m[39;49m[27m[12;1H[?12l[?25h[?12;25h[?25l}[58;34H[7m6 [0m[39;49m[27m[7;1H[?12l[?25h[?12;25h[58;34H[?25l[7m11[0m[39;49m[27m[12;2H[?12l[?25h[?12;25h[59;1H[?25lAuto-saving...[12;2H[?12l[?25h[?12;25h[59;15H[?25ldone[12;2H[?12l[?25h[?12;25h[59;1H[K[58;35H[?25l[7m0[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9 [0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m10[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;35H[?25l[7m1[0m[39;49m[27m[12;2H[?12l[?25h[?12;25h[59;1H[?25lEnd of buffer[12;2H[?12l[?25h[?12;25h[59;1H[K[58;35H[?25l[7m0[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9 [0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m7[0m[39;49m[27m[8;1H[?12l[?25h[?12;25h[58;34H[?25l[7m8[0m[39;49m[27m[9;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9[0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m10[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;35H[?25l[7m1[0m[39;49m[27m[12;2H[?12l[?25h[?12;25h[59;1H[?25lEnd of buffer[12;2H[?12l[?25h[?12;25h[59;1H[K[12;2H[59;1H[?25lf1 (Type ? for further options)[12;2H[?12l[?25h[?12;25h[59;32H[?25l-[12;2H[?12l[?25h[?12;25h[59;32H[?25l ESC[12;2H[?12l[?25h[?12;25h[59;36H[?25l-[12;2H[?12l[?25h[?12;25h[59;36H[?25l O[12;2H[?12l[?25h[?12;25h[59;38H[?25l-[12;2H[?12l[?25h[?12;25h[59;38H[?25l P[12;2H[?12l[?25h[?12;25h[59;1H[1@				[K[12;2H[59;34H[?25lf1[12;2H[?12l[?25h[?12;25h[59;1H[?25lType one of the options listed:[K	[?12l[?25h[?12;25h[1d[?25l[7mHelp-Mode Help[0m[39;49m[27m[2;103H[7m|[0m[39;49m[27mYou have typed <f1>, the help character.  Type a Help option:[3;103H[7m|[0m[39;49m[27m(Use SPC or DEL to scroll through this text.  Type q to exit the Help command.)[4;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27ma PATTERN   Show commands whose name matches the PATTERN (a list of words[6;103H[7m|[0m[39;49m[27m              or a regexp).  See also the `apropos' command.[7;103H[7m|[0m[39;49m[27mb           Display all key bindings.[8;103H[7m|[0m[39;49m[27mc KEYS      Display the command name run by the given key sequence.[9;103H[7m|[0m[39;49m[27mC CODING    Describe the given coding system, or RET for current ones.[10;103H[7m|[0m[39;49m[27md PATTERN   Show a list of functions, variables, and other items whose[11;103H[7m|[0m[39;49m[27m              documentation matches the PATTERN (a list of words or a regexp).[12;103H[7m|[0m[39;49m[27me           Go to the *Messages* buffer which logs echo-area messages.[13;103H[7m|[0m[39;49m[27mf FUNCTION  Display documentation for the given function.[14;103H[7m|[0m[39;49m[27mF COMMAND   Show the on-line manual's section that describes the command.[15;103H[7m|[0m[39;49m[27mg           Display information about the GNU project.[16;103H[7m|[0m[39;49m[27mh           Display the HELLO file which illustrates various scripts.[17;103H[7m|[0m[39;49m[27mi           Start the Info documentation reader: read on-line manuals.[18;103H[7m|[0m[39;49m[27mI METHOD    Describe a specific input method, or RET for current.[19;103H[7m|[0m[39;49m[27mk KEYS      Display the full documentation for the key sequence.[20;103H[7m|[0m[39;49m[27mK KEYS      Show the on-line manual's section for the command bound to KEYS.[21;103H[7m|[0m[39;49m[27ml           Show last 300 input keystrokes (lossage).[22;103H[7m|[0m[39;49m[27mL LANG-ENV  Describes a specific language environment, or RET for current.[23;103H[7m|[0m[39;49m[27mm           Display documentation of current minor modes and current major mode,[24;103H[7m|[0m[39;49m[27m              including their special commands.[25;103H[7m|[0m[39;49m[27mn           Display news of recent Emacs changes.[26;103H[7m|[0m[39;49m[27mp TOPIC     Find packages matching a given topic keyword.[27;103H[7m|[0m[39;49m[27mr           Display the Emacs manual in Info mode.[28;103H[7m|[0m[39;49m[27ms           Display contents of current syntax table, plus explanations.[29;103H[7m|[0m[39;49m[27mS SYMBOL    Show the section for the given symbol in the on-line manual[30;103H[7m|[0m[39;49m[27m              for the programming language used in this buffer.[31;103H[7m|[0m[39;49m[27mt           Start the Emacs learn-by-doing tutorial.[32;103H[7m|[0m[39;49m[27mv VARIABLE  Display the given variable's documentation and value.[33;103H[7m|[0m[39;49m[27mw COMMAND   Display which keystrokes invoke the given command (where-is).[34;103H[7m|[0m[39;49m[27m.           Display any available local help at point in the echo area.[35;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27mC-a         Information about Emacs.[37;103H[7m|[0m[39;49m[27mC-c         Emacs copying permission (GNU General Public License).[38;103H[7m|[0m[39;49m[27mC-d         Instructions for debugging GNU Emacs.[39;103H[7m|[0m[39;49m[27mC-e         External packages and information about Emacs.[40;103H[7m|[0m[39;49m[27mC-f         Emacs FAQ.[41;103H[7m|[0m[39;49m[27mC-m         How to order printed Emacs manuals.[42;103H[7m|[0m[39;49m[27mC-n         News of recent Emacs changes.[43;103H[7m|[0m[39;49m[27mC-o         Emacs ordering and distribution information.[44;103H[7m|[0m[39;49m[27mC-p         Info about known Emacs problems.[45;103H[7m|[0m[39;49m[27mC-t         Emacs TODO list.[46;103H[7m|[0m[39;49m[27mC-w         Information on absence of warranty for GNU Emacs.[47;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m-UUU:**--F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L11    (C++/l Abbrev) ------------------------------------------------[0m[39;49m[27m[7m|[0m[39;49m[27m[7m-UUU:%*--F1  [0m[39;49m[27m[7m[1m*Help*      [0m[39;49m[27m[7m   All L1     (Help) [0m[39;49m[27m
+				[?12l[?25h[?12;25h[C[?25lESC[?12l[?25h[?12;25h[K[2;104H[1;33H[?25l[7mC++ Help      [0m[39;49m[27m[2;19H[K
+[K[4;21H[K
+[K[6;11H[K
+[C[K
+[K[9;34H[K
+[K[11;12H[K
+[COP[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:**--F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L11    (C++/l Abbrev) -----------------------------------------------------------------------------------------------[0m[39;49m[27m[12;4H[?12l[?25h[?12;25h[K[K[59;1H[?25lAuto-saving...[12;2H[?12l[?25h[?12;25h[59;15H[?25ldone[12;2H[?12l[?25h[?12;25h[59;1H[K[58;35H[?25l[7m2[0m[39;49m[27m[13;1H[?12l[?25h[?12;25h[58;35H[?25l[7m3[0m[39;49m[27m[14;1H[?12l[?25h[?12;25h[58;35H[?25l[7m4[0m[39;49m[27m[15;1H[?12l[?25h[?12;25h[58;35H[?25l[7m5[0m[39;49m[27m[16;1H[?12l[?25h[?12;25h[58;35H[?25l[7m4[0m[39;49m[27m[15;1H[?12l[?25h[?12;25h[58;35H[?25l[7m3[0m[39;49m[27m[14;1H[?12l[?25h[?12;25h[59d[?25lAuto-saving...[14;1H[?12l[?25h[?12;25h[59;15H[?25ldone[14;1H[?12l[?25h[?12;25h[59d[K[14d[59d[?25l[34mSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) [39;49m[?12l[?25h[?12;25h[?25lSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) y[?12l[?25h[?12;25h[59;4H[?25ling file /home/010/m/ma/mad190003/main.cc...[K[14;1H[?12l[?25h[?12;25h[59d[?25lWrote /home/010/m/ma/mad190003/main.cc[K[14;1H[?12l[?25h[?12;25h[59d[K[14d[59d[K[?1l>[?12l[?25h[?1049l[39;49m]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more main.cc
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+
+  cout << "Hello World " << endl;
+
+  return 0;
+}
+
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} ec[Kmacs 0[K-a [K[K[K[K[K[K[K[K[Kla [K[K [Ks -al
+total 1768
+drwx--x--x   8 mad190003 se      843 Feb  6 15:07 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rw-------   1 mad190003 se       18 Feb  6 14:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+drwx------   3 mad190003 se       32 Feb  6 14:52 .emacs.d
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-------   1 mad190003 se      106 Feb  6 15:07 main.cc
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-------   1 mad190003 se        0 Feb  6 14:24 script.timinh
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se    40960 Feb  6 14:53 typescript
+-rw-------   1 mad190003 se       67 Feb  6 14:10 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
+-rw-r--r--   1 mad190003 se     6733 Nov 28  2019 .Xdefaults.maker
+-rw-r--r--   1 mad190003 se     1384 Nov 28  2019 .xserverrc
+-rw-r--r--   1 mad190003 se      393 Nov 28  2019 .xsession
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more file.cc[K[K[K[K[K[K[K[K main.cc
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+
+  cout << "Hello World " << endl;
+
+  return 0;
+}
+
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more typescript
+Script started on Sat 06 Feb 2021 02:20:29 PM CST
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} script --apend [K[K[K[Koe[K[Kpend --timing=script.timing
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} la[Ks 0qa[K[K[K-al
+total 1544
+drwx--x--x   7 mad190003 se      761 Feb  6 14:20 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rw-------   1 mad190003 se       18 Feb  6 14:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se        0 Feb  6 14:09 typescript
+-rw-------   1 mad190003 se       67 Feb  6 14:10 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
+-rw-r--r--   1 mad190003 se     6733 Nov 28  2019 .Xdefaults.maker
+-rw-r--r--   1 mad190003 se     1384 Nov 28  2019 .xserverrc
+-rw-r--r--   1 mad190003 se      393 Nov 28  2019 .xsession
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} sci[Kript -- [Kape[Kpend --timing+[K-[K+[K=script.timinh
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} script --append --timing [K=script.timing
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} ecams[K[K[K[Kmacs [K[K[K[K[K[Kg++ main.cc
+g++: error: main.cc: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} emcas [K[K[K[Kac s[K[Ks -nw main.cc
+[?1049h[?12;25h[?1h=[H[2J[59d[K[?1049h[?12;25h[?1h=[H[2J[58d[?25l[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Fundamental) ------------------------------------------------
+---------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/desktop-entry-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;87H[?25ldone[H
+[?12l[?25h[?12;25h[59;49H[?25lsystemtap-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;78H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/systemtap-init.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                  
+                                        Script started on Sat 06 Feb 2021 02:25:02 PM CST
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} ecams[K[K[K[Kmacs [K[K[K[K[K[Kg++ main.cc
+g++: error: main.cc: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} emcas [K[K[K[Kac s[K[Ks -nw main.cc
+[?1049h[?12;25h[?1h=[H[2J[59d[K[?1049h[?12;25h[?1h=[H[2J[58d[?25l[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Fundamental) ---------------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/desktop-entry-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;87H[?25ldone[H
+[?12l[?25h[?12;25h[59;49H[?25lsystemtap-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;78H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/systemtap-init.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                                                                                                                                         [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Lisp Interaction) ----------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[59d[?25l(New file)[K[H
+[?12l[?25h[?12;25h[59d[?25lLoading cc-langs...[H
+[?12l[?25h[?12;25h[59;20H[?25ldone[H
+[?12l[?25h[?12;25h[59d[?25lLoading cc-langs...done[K[H[7mFile Edit Options Buffers Tools C++ Help                                                                                                                                                                      [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:----F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L1     (C++/l Abbrev) --------------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[K[2d[?25lg[58;6H[7m**[0m[39;49m[27m[2;2H[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[K[K[K[K[?25l#[?12l[?25h[?12;25h[?25l[1m[34m#i[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34mn[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34mc[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34ml[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34mu[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34md[0m[39;49m[?12l[?25h[?12;25h[?25l[1m[34me[0m[39;49m[?12l[?25h[?12;25h[C[?25l[32m<[39;49m[?12l[?25h[?12;25h[?25l[32ms[39;49m[?12l[?25h[?12;25h[?25l[32mt[39;49m[?12l[?25h[?12;25h[?25l[32md[39;49m[?12l[?25h[?12;25h[?25l[32mi[39;49m[?12l[?25h[?12;25h[?25l[32mo[39;49m[?12l[?25h[?12;25h[?25l[32m.[39;49m[?12l[?25h[?12;25h[?25l[32mh[39;49m[?12l[?25h[?12;25h[?25l[32m>[39;49m[?12l[?25h[?12;25h[58;34H[?25l[7m2[0m[39;49m[27m[H
+
+[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25l[1m[36musing[0m[39;49m[?12l[?25h[?12;25h[C[?25l[32mn[39;49m[?12l[?25h[?12;25h[K[C[?25lusin[K[?12l[?25h[?12;25h[K[K[K[58;34H[?25l[7m3[0m[39;49m[27m[4;1H[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25liu[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[K[K[?25ln[?12l[?25h[?12;25h[?25l[1m[36musing[0m[39;49m[?12l[?25h[?12;25h[C[?25l[32mn[39;49m[?12l[?25h[?12;25h[?25l[32ma[39;49m[?12l[?25h[?12;25h[?25l[32mm[39;49m[?12l[?25h[?12;25h[?25l[32me[39;49m[?12l[?25h[?12;25h[?25l[32ms[39;49m[?12l[?25h[?12;25h[?25l[32mp[39;49m[?12l[?25h[?12;25h[?25l[32ma[39;49m[?12l[?25h[?12;25h[?25l[32mc[39;49m[?12l[?25h[?12;25h[4;7H[?25l[1m[36mnamespace[0m[39;49m[?12l[?25h[?12;25h	[?25l[35ms[39;49m[?12l[?25h[?12;25h[?25l[35mt[39;49m[?12l[?25h[?12;25h[?25l[35md[39;49m[?12l[?25h[?12;25h[?25l:[?12l[?25h[?12;25h[58;34H[?25l[7m4[0m[39;49m[27m[5;1H[?12l[?25h[?12;25h[58;34H[?25l[7m3[0m[39;49m[27m[4;21H[?12l[?25h[?12;25h[K[?25l[35ml[39;49m[?12l[?25h[?12;25h[K[?25l[35ml[39;49m[?12l[?25h[?12;25h[K[?25l;[?12l[?25h[?12;25h[58;34H[?25l[7m4[0m[39;49m[27m[5;1H[?12l[?25h[?12;25h[58;34H[?25l[7m5[0m[39;49m[27m[6;1H[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25l[32mint[39;49m[?12l[?25h[?12;25h[C[?25l[33mm[39;49m[?12l[?25h[?12;25h[?25l[33ma[39;49m[?12l[?25h[?12;25h[?25l[33mi[39;49m[?12l[?25h[?12;25h[?25l[33mn[39;49m[?12l[?25h[?12;25h[?25l[1m[34mmain[0m[39;49m([?12l[?25h[?12;25h[?25l)[?12l[?25h[?12;25h[58;34H[?25l[7m6[0m[39;49m[27m[7;1H[?12l[?25h[?12;25h[?25l{[?12l[?25h[?12;25h[58;34H[?25l[7m7[0m[39;49m[27m[8;1H[?12l[?25h[?12;25h[58;34H[?25l[7m8[0m[39;49m[27m[9;1H[?12l[?25h[?12;25h[C[?25lc[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[K[K[K[9;3H[?25lc[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h	[?25l<[?12l[?25h[?12;25h[?25l<[?12l[?25h[?12;25h[C[?25l[1m[31m"[0m[39;49m[?12l[?25h[?12;25h[?25l[32mH[39;49m[?12l[?25h[?12;25h[?25l[32mE[39;49m[?12l[?25h[?12;25h[K[?25l[32me[39;49m[?12l[?25h[?12;25h[?25l[32ml[39;49m[?12l[?25h[?12;25h[?25l[32ml[39;49m[?12l[?25h[?12;25h[?25l[32mo[39;49m[?12l[?25h[?12;25h[?25l[32m [39;49m[?12l[?25h[?12;25h[?25l[32mW[39;49m[?12l[?25h[?12;25h[?25l[32mo[39;49m[?12l[?25h[?12;25h[?25l[32mr[39;49m[?12l[?25h[?12;25h[?25l[32ml[39;49m[?12l[?25h[?12;25h[?25l[32md[39;49m[?12l[?25h[?12;25h[?25l[32m [39;49m[?12l[?25h[?12;25h[K[?25l[32m:[39;49m[?12l[?25h[?12;25h[K[?25l[32m [39;49m[?12l[?25h[?12;25h[9;11H[?25l[32m"Hello World "[39;49m[?12l[?25h[?12;25h[C[?25l<[?12l[?25h[?12;25h[?25l<[?12l[?25h[?12;25h[C[?25le[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25l:[?12l[?25h[?12;25h[K[?25ll[?12l[?25h[?12;25h[K[?25l:[?12l[?25h[?12;25h[K[?25l;[?12l[?25h[?12;25h[58d[?25l[7m9[0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m10[0m[39;49m[27m[11;1H[?12l[?25h[?12;25h[C[C[?25lr[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25l[1m[36mreturn[0m[39;49m[?12l[?25h[?12;25h[C[?25l0[?12l[?25h[?12;25h[?25l;[?12l[?25h[?12;25h[58;35H[?25l[7m1[0m[39;49m[27m[12;1H[?12l[?25h[?12;25h[?25l}[58;34H[7m6 [0m[39;49m[27m[7;1H[?12l[?25h[?12;25h[58;34H[?25l[7m11[0m[39;49m[27m[12;2H[?12l[?25h[?12;25h[59;1H[?25lAuto-saving...[12;2H[?12l[?25h[?12;25h[59;15H[?25ldone[12;2H[?12l[?25h[?12;25h[59;1H[K[58;35H[?25l[7m0[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9 [0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m10[0m[39;49m[27m[11;2H[?12l[?25m[27m[8;1H[?12l[?25h[?12;25h[58;34H[?25l[7m8[0m[39;49m[27m[9;1H[?12l[?25h[?12;25h[C[?25lc[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[K[K[K[9;3H[?25lc[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h	[?25l<[?12l[?25h[?12;25h[?25l<[?12l[?25h[?12;25h[C[?25l[1m[31m"[0m[39;49m[?12l[?25h[?12;25h[?25l[32mH[39;49m[?12l[?25h[?12;25h[?25l[32mE[39;49m[?12l[?25h[?12;25h[K[?25l[32me[39;49m[?12l[?25h[?12;25h[?25l[32ml[39;49m[?12l[?25h[?12;25h[?25l[32ml[39;49m[?12l[?25h[?12;25h[?25l[32mo[39;49m[?12l[?25h[?12;25h[?25l[32m [39;49m[?12l[?25h[?12;25h[?25l[32mW[39;49m[?12l[?25h[?12;25h[?25l[32mo[39;49m[?12l[?25h[?12;25h[?25l[32mr[39;49m[?12l[?25h[?12;25h[?25l[32ml[39;49m[?12l[?25h[?12;25h[?25l[32md[39;49m[?12l[?25h[?12;25h[?25l[32m [39;49m[?12l[?25h[?12;25h[K[?25l[32m:[39;49m[?12l[?25h[?12;25h[K[?25l[32m [39;49m[?12l[?25h[?12;25h[9;11H[?25l[32m"Hello World "[39;49m[?12l[?25h[?12;25h[C[?25l<[?12l[?25h[?12;25h[?25l<[?12l[?25h[?12;25h[C[?25le[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25l:[?12l[?25h[?12;25h[K[?25ll[?12l[?25h[?12;25h[K[?25l:[?12l[?25h[?12;25h[K[?25l;[?12l[?25h[?12;25h[58d[?25l[7m9[0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m10[0m[39;49m[27m[11;1H[?12l[?25h[?12;25h[C[C[?25lr[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25l[1m[36mreturn[0m[39;49m[?12l[?25h[?12;25h[C[?25l0[?12l[?25h[?12;25h[?25l;[?12l[?25h[?12;25h[58;35H[?25l[7m1[0m[39;49m[27m[12;1H[?12l[?25h[?12;25h[?25l}[58;34H[7m6 [0m[39;49m[27m[7;1H[?12l[?25h[?12;25h[58;34H[?25l[7m11[0m[39;49m[27m[12;2H[?12l[?25h[?12;25h[59;1H[?25lAuto-saving...[12;2H[?12l[?25h[?12;25h[59;15H[?25ldone[12;2H[?12l[?25h[?12;25h[59;1H[K[58;35H[?25l[7m0[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9 [0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m10[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;35H[?25l[7m1[0m[39;49m[27m[12;2H[?12l[?25h[?12;25h[59;1H[?25lEnd of buffer[12;2H[?12l[?25h[?12;25h[59;1H[K[58;35H[?25l[7m0[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9 [0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m7[0m[39;49m[27m[8;1H[?12l[?25h[?12;25h[58;34H[?25l[7m8[0m[39;49m[27m[9;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9[0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m10[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;35H[?25l[7m1[0m[39;49m[27m[12;2H[?12l[?25h[?12;25h[59;1H[?25lEnd of buffer[12;2H[?12l[?25h[?12;25h[59;1H[K[12;2H[59;1H[?25lf1 (Type ? for further options)[12;2H[?12l[?25h[?12;25h[59;32H[?25l-[12;2H[?12l[?25h[?12;25h[59;32H[?25l ESC[12;2H[?12l[?25h[?12;25h[59;36H[?25l-[12;2H[?12l[?25h[?12;25h[59;36H[?25l O[12;2H[?12l[?25h[?12;25h[59;38H[?25l-[12;2H[?12l[?25h[?12;25h[59;38H[?25l P[12;2H[?12l[?25h[?12;25h[59;1H[1@				[K[12;2H[59;34H[?25lf1[12;2H[?12l[?25h[?12;25h[59;1H[?25lType one of the options listed:[K	[?12l[?25h[?12;25h[1d[?25l[7mHelp-Mode Help[0m[39;49m[27m[2;103H[7m|[0m[39;49m[27mYou have typed <f1>, the help character.  Type a Help option:[3;103H[7m|[0m[39;49m[27m(Use SPC or DEL to scroll through this text.  Type q to exit the Help command.)[4;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27ma PATTERN   Show commands whose name matches the PATTERN (a list of words[6;103H[7m|[0m[39;49m[27m              or a regexp).  See also the `apropos' command.[7;103H[7m|[0m[39;49m[27mb           Display all key bindings.[8;103H[7m|[0m[39;49m[27mc KEYS      Display the command name run by the given key sequence.[9;103H[7m|[0m[39;49m[27mC CODING    Describe the given coding system, or RET for current ones.[10;103H[7m|[0m[39;49m[27md PATTERN   Show a list of functions, variables, and other items whose[11;103H[7m|[0m[39;49m[27m              documentation matches the PATTERN (a list of words or a regexp).[12;103H[7m|[0m[39;49m[27me           Go to the *Messages* buffer which logs echo-area messages.[13;103H[7m|[0m[39;49m[27mf FUNCTION  Display documentation for the given function.[14;103H[7m|[0m[39;49m[27mF COMMAND   Show the on-line manual's section that describes the command.[15;103H[7m|[0m[39;49m[27mg           Display information about the GNU project.[16;103H[7m|[0m[39;49m[27mh           Display the HELLO file which illustrates various scripts.[17;103H[7m|[0m[39;49m[27mi           Start the Info documentation reader: read on-line manuals.[18;103H[7m|[0m[39;49m[27mI METHOD    Describe a specific input method, or RET for current.[19;103H[7m|[0m[39;49m[27mk KEYS      Display the full documentation for the key sequence.[20;103H[7m|[0m[39;49m[27mK KEYS      Show the on-line manual's section for the command bound to KEYS.[21;103H[7m|[0m[39;49m[27ml           Show last 300 input keystrokes (lossage).[22;103H[7m|[0m[39;49m[27mL LANG-ENV  Describes a specific language environment, or RET for current.[23;103H[7m|[0m[39;49m[27mm           Display documentation of current minor modes and current major mode,[24;103H[7m|[0m[39;49m[27m              including their special commands.[25;103H[7m|[0m[39;49m[27mn           Display news of recent Emacs changes.[26;103H[7m|[0m[39;49m[27mp TOPIC     Find packages matching a given topic keyword.[27;103H[7m|[0m[39;49m[27mr           Display the Emacs manual in Info mode.[28;103H[7m|[0m[39;49m[27ms           Display contents of current syntax table, plus explanations.[29;103H[7m|[0m[39;49m[27mS SYMBOL    Show the section for the given symbol in the on-line manual[30;103H[7m|[0m[39;49m[27m              for the programming language used in this buffer.[31;103H[7m|[0m[39;49m[27mt           Start the Emacs learn-by-doing tutorial.[32;103H[7m|[0m[39;49m[27mv VARIABLE  Display the given variable's documentation and value.[33;103H[7m|[0m[39;49m[27mw COMMAND   Display which keystrokes invoke the given command (where-is).[34;103H[7m|[0m[39;49m[27m.           Display any available local help at point in the echo area.[35;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27mC-a         Information about Emacs.[37;103H[7m|[0m[39;49m[27mC-c         Emacs copying permission (GNU General Public License).[38;103H[7m|[0m[39;49m[27mC-d         Instructions for debugging GNU Emacs.[39;103H[7m|[0m[39;49m[27mC-e         External packages and information about Emacs.[40;103H[7m|[0m[39;49m[27mC-f         Emacs FAQ.[41;103H[7m|[0m[39;49m[27mC-m         How to order printed Emacs manuals.[42;103H[7m|[0m[39;49m[27mC-n         News of recent Emacs changes.[43;103H[7m|[0m[39;49m[27mC-o         Emacs ordering and distribution information.[44;103H[7m|[0m[39;49m[27mC-p         Info about known Emacs problems.[45;103H[7m|[0m[39;49m[27mC-t         Emacs TODO list.[46;103H[7m|[0m[39;49m[27mC-w         Information on absence of warranty for GNU Emacs.[47;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m-UUU:**--F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L11    (C++/l Abbrev) ------------------------------------------------[0m[39;49m[27m[7m|[0m[39;49m[27m[7m-UUU:%*--F1  [0m[39;49m[27m[7m[1m*Help*      [0m[39;49m[27m[7m   All L1     (Help) [0m[39;49m[27m
+				[?12l[?25h[?12;25h[C[?25lESC[?12l[?25h[?12;25h[K[2;104H[1;33H[?25l[7mC++ Help      [0m[39;49m[27m[2;19H[K
+[K[4;21H[K
+[K[6;11H[K
+[C[K
+[K[9;34H[K
+[K[h[?12;25h[58;35H[?25l[7m1[0m[39;49m[27m[12;2H[?12l[?25h[?12;25h[59;1H[?25lEnd of buffer[12;2H[?12l[?25h[?12;25h[59;1H[K[58;35H[?25l[7m0[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9 [0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m7[0m[39;49m[27m[8;1H[?12l[?25h[?12;25h[58;34H[?25l[7m8[0m[39;49m[27m[9;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9[0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m10[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;35H[?25l[7m1[0m[39;49m[27m[12;2H[?12l[?25h[?12;25h[59;1H[?25lEnd of buffer[12;2H[?12l[?25h[?12;25h[59;1H[K[12;2H[59;1H[?25lf1 (Type ? for further options)[12;2H[?12l[?25h[?12;25h[59;32H[?25l-[12;2H[?12l[?25h[?12;25h[59;32H[?25l ESC[12;2H[?12l[?25h[?12;25h[59;36H[?25l-[12;2H[?12l[?25h[?12;25h[59;36H[?25l O[12;2H[?12l[?25h[?12;25h[59;38H[?25l-[12;2H[?12l[?25h[?12;25h[59;38H[?25l P[12;2H[?12l[?25h[?12;25h[59;1H[1@				[K[12;2H[59;34H[?25lf1[12;2H[?12l[?25h[?12;25h[59;1H[?25lType one of the options listed:[K	[?12l[?25h[?12;25h[1d[?25l[7mHelp-Mode Help[0m[39;49m[27m[2;103H[7m|[0m[39;49m[27mYou have typed <f1>, the help character.  Type a Help option:[3;103H[7m|[0m[39;49m[27m(Use SPC or DEL to scroll through this text.  Type q to exit the Help command.)[4;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27ma PATTERN   Show commands whose name matches the PATTERN (a list of words[6;103H[7m|[0m[39;49m[27m              or a regexp).  See also the `apropos' command.[7;103H[7m|[0m[39;49m[27mb           Display all key bindings.[8;103H[7m|[0m[39;49m[27mc KEYS      Display the command name run by the given key sequence.[9;103H[7m|[0m[39;49m[27mC CODING    Describe the given coding system, or RET for current ones.[10;103H[7m|[0m[39;49m[27md PATTERN   Show a list of functions, variables, and other items whose[11;103H[7m|[0m[39;49m[27m              documentation matches the PATTERN (a list of words or a regexp).[12;103H[7m|[0m[39;49m[27me           Go to the *Messages* buffer which logs echo-area messages.[13;103H[7m|[0m[39;49m[27mf FUNCTION  Display documentation for the given function.[14;103H[7m|[0m[39;49m[27mF COMMAND   Show the on-line manual's section that describes the command.[15;103H[7m|[0m[39;49m[27mg           Display information about the GNU project.[16;103H[7m|[0m[39;49m[27mh           Display the HELLO file which illustrates various scripts.[17;103H[7m|[0m[39;49m[27mi           Start the Info documentation reader: read on-line manuals.[18;103H[7m|[0m[39;49m[27mI METHOD    Describe a specific input method, or RET for current.[19;103H[7m|[0m[39;49m[27mk KEYS      Display the full documentation for the key sequence.[20;103H[7m|[0m[39;49m[27mK KEYS      Show the on-line manual's section for the command bound to KEYS.[21;103H[7m|[0m[39;49m[27ml           Show last 300 input keystrokes (lossage).[22;103H[7m|[0m[39;49m[27mL LANG-ENV  Describes a specific language environment, or RET for current.[23;103H[7m|[0m[39;49m[27mm           Display documentation of current minor modes and current major mode,[24;103H[7m|[0m[39;49m[27m              including their special commands.[25;103H[7m|[0m[39;49m[27mn           Display news of recent Emacs changes.[26;103H[7m|[0m[39;49m[27mp TOPIC     Find packages matching a given topic keyword.[27;103H[7m|[0m[39;49m[27mr           Display the Emacs manual in Info mode.[28;103H[7m|[0m[39;49m[27ms           Display contents of current syntax table, plus explanations.[29;103H[7m|[0m[39;49m[27mS SYMBOL    Show the section for the given symbol in the on-line manual[30;103H[7m|[0m[39;49m[27m              for the programming language used in this buffer.[31;103H[7m|[0m[39;49m[27mt           Start the Emacs learn-by-doing tutorial.[32;103H[7m|[0m[39;49m[27mv VARIABLE  Display the given variable's documentation and value.[33;103H[7m|[0m[39;49m[27mw COMMAND   Display which keystrokes invoke the given command (where-is).[34;103H[7m|[0m[39;49m[27m.           Display any available local help at point in the echo area.[35;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27mC-a         Information about Emacs.[37;103H[7m|[0m[39;49m[27mC-c         Emacs copying permission (GNU General Public License).[38;103H[7m|[0m[39;49m[27mC-d         Instructions for debugging GNU Emacs.[39;103H[7m|[0m[39;49m[27mC-e         External packages and information about Emacs.[40;103H[7m|[0m[39;49m[27mC-f         Emacs FAQ.[41;103H[7m|[0m[39;49m[27mC-m         How to order printed Emacs manuals.[42;103H[7m|[0m[39;49m[27mC-n         News of recent Emacs changes.[43;103H[7m|[0m[39;49m[27mC-o         Emacs ordering and distribution information.[44;103H[7m|[0m[39;49m[27mC-p         Info about known Emacs problems.[45;103H[7m|[0m[39;49m[27mC-t         Emacs TODO list.[46;103H[7m|[0m[39;49m[27mC-w         Information on absence of warranty for GNU Emacs.[47;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m-UUU:**--F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L11    (C++/l Abbrev) ------------------------------------------------[0m[39;49m[27m[7m|[0m[39;49m[27m[7m-UUU:%*--F1  [0m[39;49m[27m[7m[1m*Help*      [0m[39;49m[27m[7m   All L1     (Help) [0m[39;49m[27m
+				[?12l[?25h[?12;25h[C[?25lESC[?12l[?25h[?12;25h[K[2;104H[1;33H[?25l[7mC++ Help      [0m[39;49m[27m[2;19H[K
+[K[4;21H[K
+[K[6;11H[K
+[C[K
+[K[9;34H[K
+[K[11;12H[K
+[COP[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:**--F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L11    (C++/l Abbrev) -----------------------------------------------------------------------------------------------[0m[39;49m[27m[12;4H[?12l[?25h[?12;25h[K[K[59;1H[?25lAuto-saving...[12;2H[?12l[?25h[?12;25h[59;15H[?25ldone[12;2H[?12l[?25h[?12;25h[59;1H[K[58;35H[?25l[7m2[0m[39;49m[27m[13;1H[?12l[?25h[?12;25h[58;35H[?25l[7m3[0m[39;49m[27m[14;1H[?12l[?25h[?12;25h[58;35H[?25l[7m4[0m[39;49m[27m[15;1H[?12l[?25h[?12;25h[58;35H[?25l[7m5[0m[39;49m[27m[16;1H[?12l[?25h[?12;25h[58;35H[?25l[7m4[0m[39;49m[27m[15;1H[?12l[?25h[?12;25h[58;35H[?25l[7m3[0m[39;49m[27m[14;1H[?12l[?25h[?12;25h[59d[?25lAuto-saving...[14;1H[?12l[?25h[?12;25h[59;15H[?25ldone[14;1H[?12l[?25h[?12;25h[59d[K[14d[59d[?25l[34mSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) [39;49m[?12l[?25h[?12;25h[?25lSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) y[?12l[?25h[?12;25h[59;4H[?25ling file /home/010/m/ma/mad190003/main.cc...[K[14;1H[?12l[?25h[?12;25h[59d[?25lWrote /home/010/m/ma/mad190003/main.cc[K[14;1H[?12l[?25h[?12;25h[59d[K[14d[59d[K[?1l>[?12l[?25h[?1049l[39;49m]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more main.cc
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+
+  cout << "Hello World " << endl;
+
+  return 0;
+}
+
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} ec[Kmacs 0[K-a [K[K[K[K[K[K[K[K[Kla [K[K [Ks -al
+total 1768
+drwx--x--x   8 mad190003 se      843 Feb  6 15:07 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rw-------   1 mad190003 se       18 Feb  6 14:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-r[27m[11;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9 [0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m10[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;35H[?25l[7m1[0m[39;49m[27m[12;2H[?12l[?25h[?12;25h[59;1H[?25lEnd of buffer[12;2H[?12l[?25h[?12;25h[59;1H[K[58;35H[?25l[7m0[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9 [0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m7[0m[39;49m[27m[8;1H[?12l[?25h[?12;25h[58;34H[?25l[7m8[0m[39;49m[27m[9;2H[?12l[?25h[?12;25h[58;34H[?25l[7m9[0m[39;49m[27m[10;1H[?12l[?25h[?12;25h[58;34H[?25l[7m10[0m[39;49m[27m[11;2H[?12l[?25h[?12;25h[58;35H[?25l[7m1[0m[39;49m[27m[12;2H[?12l[?25h[?12;25h[59;1H[?25lEnd of buffer[12;2H[?12l[?25h[?12;25h[59;1H[K[12;2H[59;1H[?25lf1 (Type ? for further options)[12;2H[?12l[?25h[?12;25h[59;32H[?25l-[12;2H[?12l[?25h[?12;25h[59;32H[?25l ESC[12;2H[?12l[?25h[?12;25h[59;36H[?25l-[12;2H[?12l[?25h[?12;25h[59;36H[?25l O[12;2H[?12l[?25h[?12;25h[59;38H[?25l-[12;2H[?12l[?25h[?12;25h[59;38H[?25l P[12;2H[?12l[?25h[?12;25h[59;1H[1@				[K[12;2H[59;34H[?25lf1[12;2H[?12l[?25h[?12;25h[59;1H[?25lType one of the options listed:[K	[?12l[?25h[?12;25h[1d[?25l[7mHelp-Mode Help[0m[39;49m[27m[2;103H[7m|[0m[39;49m[27mYou have typed <f1>, the help character.  Type a Help option:[3;103H[7m|[0m[39;49m[27m(Use SPC or DEL to scroll through this text.  Type q to exit the Help command.)[4;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27ma PATTERN   Show commands whose name matches the PATTERN (a list of words[6;103H[7m|[0m[39;49m[27m              or a regexp).  See also the `apropos' command.[7;103H[7m|[0m[39;49m[27mb           Display all key bindings.[8;103H[7m|[0m[39;49m[27mc KEYS      Display the command name run by the given key sequence.[9;103H[7m|[0m[39;49m[27mC CODING    Describe the given coding system, or RET for current ones.[10;103H[7m|[0m[39;49m[27md PATTERN   Show a list of functions, variables, and other items whose[11;103H[7m|[0m[39;49m[27m              documentation matches the PATTERN (a list of words or a regexp).[12;103H[7m|[0m[39;49m[27me           Go to the *Messages* buffer which logs echo-area messages.[13;103H[7m|[0m[39;49m[27mf FUNCTION  Display documentation for the given function.[14;103H[7m|[0m[39;49m[27mF COMMAND   Show the on-line manual's section that describes the command.[15;103H[7m|[0m[39;49m[27mg           Display information about the GNU project.[16;103H[7m|[0m[39;49m[27mh           Display the HELLO file which illustrates various scripts.[17;103H[7m|[0m[39;49m[27mi           Start the Info documentation reader: read on-line manuals.[18;103H[7m|[0m[39;49m[27mI METHOD    Describe a specific input method, or RET for current.[19;103H[7m|[0m[39;49m[27mk KEYS      Display the full documentation for the key sequence.[20;103H[7m|[0m[39;49m[27mK KEYS      Show the on-line manual's section for the command bound to KEYS.[21;103H[7m|[0m[39;49m[27ml           Show last 300 input keystrokes (lossage).[22;103H[7m|[0m[39;49m[27mL LANG-ENV  Describes a specific language environment, or RET for current.[23;103H[7m|[0m[39;49m[27mm           Display documentation of current minor modes and current major mode,[24;103H[7m|[0m[39;49m[27m              including their special commands.[25;103H[7m|[0m[39;49m[27mn           Display news of recent Emacs changes.[26;103H[7m|[0m[39;49m[27mp TOPIC     Find packages matching a given topic keyword.[27;103H[7m|[0m[39;49m[27mr           Display the Emacs manual in Info mode.[28;103H[7m|[0m[39;49m[27ms           Display contents of current syntax table, plus explanations.[29;103H[7m|[0m[39;49m[27mS SYMBOL    Show the section for the given symbol in the on-line manual[30;103H[7m|[0m[39;49m[27m              for the programming language used in this buffer.[31;103H[7m|[0m[39;49m[27mt           Start the Emacs learn-by-doing tutorial.[32;103H[7m|[0m[39;49m[27mv VARIABLE  Display the given variable's documentation and value.[33;103H[7m|[0m[39;49m[27mw COMMAND   Display which keystrokes invoke the given command (where-is).[34;103H[7m|[0m[39;49m[27m.           Display any available local help at point in the echo area.[35;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27mC-a         Information about Emacs.[37;103H[7m|[0m[39;49m[27mC-c         Emacs copying permission (GNU General Public License).[38;103H[7m|[0m[39;49m[27mC-d         Instructions for debugging GNU Emacs.[39;103H[7m|[0m[39;49m[27mC-e         External packages and information about Emacs.[40;103H[7m|[0m[39;49m[27mC-f         Emacs FAQ.[41;103H[7m|[0m[39;49m[27mC-m         How to order printed Emacs manuals.[42;103H[7m|[0m[39;49m[27mC-n         News of recent Emacs changes.[43;103H[7m|[0m[39;49m[27mC-o         Emacs ordering and distribution information.[44;103H[7m|[0m[39;49m[27mC-p         Info about known Emacs problems.[45;103H[7m|[0m[39;49m[27mC-t         Emacs TODO list.[46;103H[7m|[0m[39;49m[27mC-w         Information on absence of warranty for GNU Emacs.[47;103H[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m|[0m[39;49m[27m
+[7m-UUU:**--F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L11    (C++/l Abbrev) ------------------------------------------------[0m[39;49m[27m[7m|[0m[39;49m[27m[7m-UUU:%*--F1  [0m[39;49m[27m[7m[1m*Help*      [0m[39;49m[27m[7m   All L1     (Help) [0m[39;49m[27m
+				[?12l[?25h[?12;25h[C[?25lESC[?12l[?25h[?12;25h[K[2;104H[1;33H[?25l[7mC++ Help      [0m[39;49m[27m[2;19H[K
+[K[4;21H[K
+[K[6;11H[K
+[C[K
+[K[9;34H[K
+[K[11;12H[K
+[COP[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:**--F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L11    (C++/l Abbrev) -----------------------------------------------------------------------------------------------[0m[39;49m[27m[12;4H[?12l[?25h[?12;25h[K[K[59;1H[?25lAuto-saving...[12;2H[?12l[?25h[?12;25h[59;15H[?25ldone[12;2H[?12l[?25h[?12;25h[59;1H[K[58;35H[?25l[7m2[0m[39;49m[27m[13;1H[?12l[?25h[?12;25h[58;35H[?25l[7m3[0m[39;49m[27m[14;1H[?12l[?25h[?12;25h[58;35H[?25l[7m4[0m[39;49m[27m[15;1H[?12l[?25h[?12;25h[58;35H[?25l[7m5[0m[39;49m[27m[16;1H[?12l[?25h[?12;25h[58;35H[?25l[7m4[0m[39;49m[27m[15;1H[?12l[?25h[?12;25h[58;35H[?25l[7m3[0m[39;49m[27m[14;1H[?12l[?25h[?12;25h[59d[?25lAuto-saving...[14;1H[?12l[?25h[?12;25h[59;15H[?25ldone[14;1H[?12l[?25h[?12;25h[59d[K[14d[59d[?25l[34mSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) [39;49m[?12l[?25h[?12;25h[?25lSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) y[?12l[?25h[?12;25h[59;4H[?25ling file /home/010/m/ma/mad190003/main.cc...[K[14;1H[?12l[?25h[?12;25h[59d[?25lWrote /home/010/m/ma/mad190003/main.cc[K[14;1H[?12l[?25h[?12;25h[59d[K[14d[59d[K[?1l>[?12l[?25h[?1049l[39;49m]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more main.cc
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+
+  cout << "Hello World " << endl;
+
+  return 0;
+}
+
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} ec[Kmacs 0[K-a [K[K[K[K[K[K[K[K[Kla [K[K [Ks -al
+total 1768
+drwx--x--x   8 mad190003 se      843 Feb  6 15:07 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rw-------   1 mad190003 se       18 Feb  6 14:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 11;12H[K
+[COP[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:**--F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L11    (C++/l Abbrev) -----------------------------------------------------------------------------------------------[0m[39;49m[27m[12;4H[?12l[?25h[?12;25h[K[K[59;1H[?25lAuto-saving...[12;2H[?12l[?25h[?12;25h[59;15H[?25ldone[12;2H[?12l[?25h[?12;25h[59;1H[K[58;35H[?25l[7m2[0m[39;49m[27m[13;1H[?12l[?25h[?12;25h[58;35H[?25l[7m3[0m[39;49m[27m[14;1H[?12l[?25h[?12;25h[58;35H[?25l[7m4[0m[39;49m[27m[15;1H[?12l[?25h[?12;25h[58;35H[?25l[7m5[0m[39;49m[27m[16;1H[?12l[?25h[?12;25h[58;35H[?25l[7m4[0m[39;49m[27m[15;1H[?12l[?25h[?12;25h[58;35H[?25l[7m3[0m[39;49m[27m[14;1H[?12l[?25h[?12;25h[59d[?25lAuto-saving...[14;1H[?12l[?25h[?12;25h[59;15H[?25ldone[14;1H[?12l[?25h[?12;25h[59d[K[14d[59d[?25l[34mSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) [39;49m[?12l[?25h[?12;25h[?25lSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) y[?12l[?25h[?12;25h[59;4H[?25ling file /home/010/m/ma/mad190003/main.cc...[K[14;1H[?12l[?25h[?12;25h[59d[?25lWrote /home/010/m/ma/mad190003/main.cc[K[14;1H[?12l[?25h[?12;25h[59d[K[14d[59d[K[?1l>[?12l[?25h[?1049l[39;49m]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more main.cc
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+
+  cout << "Hello World " << endl;
+
+  return 0;
+}
+
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} ec[Kmacs 0[K-a [K[K[K[K[K[K[K[K[Kla [K[K [Ks -al
+total 1768
+drwx--x--x   8 mad190003 se      843 Feb  6 15:07 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rw-------   1 mad190003 se       18 Feb  6 14:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+drwx------   3 mad190003 se       32 Feb  6 14:52 .emacs.d
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-------   1 mad190003 se      106 Feb  6 15:07 main.cc
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-------   1 mad190003 se        0 Feb  6 14:24 script.timinh
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se    40960 Feb  6 14:53 typescript
+-rw-------   1 mad190003 se       67 Feb  6 14:10 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
+-rw-r--r--   1 mad190003 se     6733 Nov 28  2019 .Xdefaults.maker
+-rw-r--r--   1 mad190003 se     1384 Nov 28  2019 .xserverrc
+-rw-r--r--   1 mad190003 se      393 Nov 28  2019 .xsession
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more file.cc[K[K[K[K[K[K[K[K main.cc
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+
+  cout << "Hello World " << endl;
+
+  return 0;
+}
+
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more typescript
+Script started on Sat 06 Feb 2021 02:20:29 PM CST
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} script --apend [K[K[K[Koe[K[Kpend --timing=script.timing
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} la[Ks 0qa[K[K[K-al
+total 1544
+drwx--x--x   7 mad190003 se      761 Feb  6 14:20 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rw-------   1 mad190003 se       18 Feb  6 14:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se        0 Feb  6 14:09 typescript
+-rw-------   1 mad190003 se       67 Feb  6 14:10 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
+-rw-r--r--   1 mad190003 se     6733 Nov 28  2019 .Xdefaults.maker
+-rw-r--r--   1 mad190003 se     1384 Nov 28  2019 .xserverrc
+-rw-r--r--   1 mad190003 se      393 Nov 28  2019 .xsession
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} sci[Kript -- [Kape[Kpend --timing+[K-[K+[K=script.timinh
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} script --append --timing [K=script.timing
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} ecams[K[K[K[Kmacs [K[K[K[K[K[Kg++ main.cc
+g++: error: main.cc: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} emcas [K[K[K[Kac s[K[Ks -nw main.cc
+[?1049h[?12;25h[?1h=[H[2J[59d[K[?1049h[?12;25h[?1h=[H[2J[58d[?25l[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Fundamental) ------------------------------------------------
+---------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/desktop-entry-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;87H[?25ldone[H
+[?12l[?25h[?12;25h[59;49H[?25lsystemtap-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;78H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/systemtap-init.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                  
+                                                                                                                       [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[7m--More--(6%)[27m[K]2;cslinux1.utdallas.ew-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+drwx------   3 mad190003 se       32 Feb  6 14:52 .emacs.d
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-------   1 mad190003 se      106 Feb  6 15:07 main.cc
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-------   1 mad190003 se        0 Feb  6 14:24 script.timinh
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se    40960 Feb  6 14:53 typescript
+-rw-------   1 mad190003 se       67 Feb  6 14:10 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
+-rw-r--r--   1 mad190003 se     6733 Nov 28  2019 .Xdefaults.maker
+-rw-r--r--   1 mad190003 se     1384 Nov 28  2019 .xserverrc
+-rw-r--r--   1 mad190003 se      393 Nov 28  2019 .xsession
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more file.cc[K[K[K[K[K[K[K[K main.cc
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+
+  cout << "Hello World " << endl;
+
+  return 0;
+}
+
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more typescript
+Script started on Sat 06 Feb 2021 02:20:29 PM CST
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} script --apend [K[K[K[Koe[K[Kpend --timing=script.timing
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} la[Ks 0qa[K[K[K-al
+total 1544
+drwx--x--x   7 mad190003 se      761 Feb  6 14:20 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rw-------   1 mad190003 se       18 Feb  6 14:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se        0 Feb  6 14:09 typescript
+-rw-------   1 mad190003 se       67 Feb  6 14:10 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
+-rw-r--r--   1 mad190003 se     6733 Nov 28  2019 .Xdefaults.maker
+-rw-r--r--   1 mad190003 se     1384 Nov 28  2019 .xserverrc
+-rw-r--r--   1 mad190003 se      393 Nov 28  2019 .xsession
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} sci[Kript -- [Kape[Kpend --timing+[K-[K+[K=script.timinh
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} script --append --timing [K=script.timing
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} ecams[K[K[K[Kmacs [K[K[K[K[K[Kg++ main.cc
+g++: error: main.cc: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} emcas [K[K[K[Kac s[K[Ks -nw main.cc
+[?1049h[?12;25h[?1h=[H[2J[59d[K[?1049h[?12;25h[?1h=[H[2J[58d[?25l[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Fundamental) ------------------------------------------------
+---------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/desktop-entry-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;87H[?25ldone[H
+[?12l[?25h[?12;25h[59;49H[?25lsystemtap-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;78H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/systemtap-init.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                  
+                                                                                                                       [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[7m--More--(6%)[27m[K]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more typescript[3Pmain.cc[6Pls -almore main.cc[5@emacs -nw[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pg++[C[C[C[C[C[C[C[C[5Pscript[3Pmanls -al
+total 1840
+drwx--x--x   8 mad190003 se      843 Feb  6 15:07 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rw-------   1 mad190003 se       18 Feb  6 14:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+drwx------   3 mad190003 se       32 Feb  6 14:52 .emacs.d
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-------   1 mad190003 se      106 Feb  6 15:07 main.cc
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-------   1 mad190003 se        0 Feb  6 14:24 script.timinh
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se    65536 Feb  6 15:08 typescript
+-rw-------   1 mad190003 se       67 Feb  6 14:10 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
+-rw-r--r--   1 mad190003 se     6733 Nov 28  2019 .Xdefaults.maker
+-rw-r--r--   1 mad190003 se     1384 Nov 28  2019 .xserverrc
+-rw-r--r--   1 madse     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+drwx------   3 mad190003 se       32 Feb  6 14:52 .emacs.d
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-------   1 mad190003 se      106 Feb  6 15:07 main.cc
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-------   1 mad190003 se        0 Feb  6 14:24 script.timinh
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se    40960 Feb  6 14:53 typescript
+-rw-------   1 mad190003 se       67 Feb  6 14:10 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
+-rw-r--r--   1 mad190003 se     6733 Nov 28  2019 .Xdefaults.maker
+-rw-r--r--   1 mad190003 se     1384 Nov 28  2019 .xserverrc
+-rw-r--r--   1 mad190003 se      393 Nov 28  2019 .xsession
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more file.cc[K[K[K[K[K[K[K[K main.cc
+#include <stdio.h>
+
+using namespace std;
+
+int main()
+{
+
+  cout << "Hello World " << endl;
+
+  return 0;
+}
+
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more typescript
+Script started on Sat 06 Feb 2021 02:20:29 PM CST
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} script --apend [K[K[K[Koe[K[Kpend --timing=script.timing
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} la[Ks 0qa[K[K[K-al
+total 1544
+drwx--x--x   7 mad190003 se      761 Feb  6 14:20 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rw-------   1 mad190003 se       18 Feb  6 14:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se        0 Feb  6 14:09 typescript
+-rw-------   1 mad190003 se       67 Feb  6 14:10 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
+-rw-r--r--   1 mad190003 se     6733 Nov 28  2019 .Xdefaults.maker
+-rw-r--r--   1 mad190003 se     1384 Nov 28  2019 .xserverrc
+-rw-r--r--   1 mad190003 se      393 Nov 28  2019 .xsession
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} sci[Kript -- [Kape[Kpend --timing+[K-[K+[K=script.timinh
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} script --append --timing [K=script.timing
+Script started, file is typescript
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} ecams[K[K[K[Kmacs [K[K[K[K[K[Kg++ main.cc
+g++: error: main.cc: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} emcas [K[K[K[Kac s[K[Ks -nw main.cc
+[?1049h[?12;25h[?1h=[H[2J[59d[K[?1049h[?12;25h[?1h=[H[2J[58d[?25l[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Fundamental) ------------------------------------------------
+---------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/desktop-entry-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;87H[?25ldone[H
+[?12l[?25h[?12;25h[59;49H[?25lsystemtap-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;78H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/systemtap-init.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                  
+                                                                                                                       [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[7m--More--(6%)[27m[K]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more typescript[3Pmain.cc[6Pls -almore main.cc[5@emacs -nw[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pg++[C[C[C[C[C[C[C[C[5Pscript[3Pmanls -al
+total 1840
+drwx--x--x   8 mad190003 se      843 Feb  6 15:07 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rw-------   1 mad190003 se       18 Feb  6 14:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+drwx------   3 mad190003 se       32 Feb  6 14:52 .emacs.d
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-------   1 mad190003 se      106 Feb  6 15:07 main.cc
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-------   1 mad190003 se        0 Feb  6 14:24 script.timinh
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se    65536 Feb  6 15:08 typescript
+-rw-------   1 mad190003 se       67 Feb  6 14:10 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .XdefauScript started on Sat 06 Feb 2021 03:10:01 PM CST
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003[?1034h{cslinux1:~} emc[K[Kmcas [K[K[K[Kacs -nw main.cc
+[?1049h[?12;25h[?1h=[H[2J[59d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[58d[?25l[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Fundamental) ---------------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/desktop-entry-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;87H[?25ldone[H
+[?12l[?25h[?12;25h[59;49H[?25lsystemtap-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;78H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/systemtap-init.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                                                                                                                                         [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Lisp Interaction) ----------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[59d[?25lLoading cc-langs...[K[H
+[?12l[?25h[?12;25h[59;20H[?25ldone[H
+[?12l[?25h[?12;25h[59d[?25lLoading cc-langs...done[K[H[7mFile Edit Options Buffers Tools C++ Help                                                                                                                                                                      [0m[39;49m[27m
+[A
+[1m[34m#include[0m[39;49m [32m<stdio.h>[39;49m[K
+[K
+[1m[36musing[0m[39;49m [1m[36mnamespace[0m[39;49m [35mstd[39;49m;[K
+[K
+[32mint[39;49m [1m[34mmain[0m[39;49m()[K
+{[K
+[K
+  cout << [32m"Hello World "[39;49m << endl;[K
+[K
+  [1m[36mreturn[0m[39;49m 0;[K
+}[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UU-:----F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L1     (C++/l Abbrev) --------------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[K[2d[59d[?25l(No files need saving)[H
+[?12l[?25h[?12;25h[59d[K[?1l>[?12l[?25h[?1049l[39;49m]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} g++ main.cc
+[01m[Kmain.cc:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[Kmain.cc:8:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kcout[m[K’ was not declared in this scope
+   cout << "Hello World " << endl;
+[01;32m[K   ^[m[K
+[01m[Kmain.cc:8:29:[m[K [01;31m[Kerror: [m[K‘[01m[Kendl[m[K’ was not declared in this scope
+   cout << "Hello World " << endl;
+[01;32m[K                             ^[m[K
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} ea[Kmacs -w[Knw mainlc[K[K,cc
+[?1049h[?12;25h[?1h=[H[2J[59d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[58d[?25l[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Fundamental) ---------------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/desktop-entry-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;87H[?25ldone[H
+[?12l[?25h[?12;25h[59;49H[?25lsystemtap-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;78H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/systemtap-init.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                                                                                                                                         [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Lisp Interaction) ----------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[59d[?25l(New file)[K[H
+[?12l[?25h[?12;25h[59d[?25l(New file)[K[H[7mFile Edit Options Buffers Tools Help                                                                                                                                                                          [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:----F1  [0m[39;49m[27m[7m[1mmain,cc     [0m[39;49m[27m[7m   All L1     (Fundamental) ---------------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[K[2d[59d[?25l(No files need saving)[H
+[?12l[?25h[?12;25h[59d[K[?1l>[?12l[?25h[?1049l[39;49m]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} ecam[K[Kma[K[K[Kam[K[Kmacs - [Knew [K[K[Kw mian.c[K[K[K[K[Kain.cc
+[?1049h[?12;25h[?1h=[H[2J[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[58d[?25l[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Fundamental) ---------------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/desktop-entry-mode-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;87H[?25ldone[H
+[?12l[?25h[?12;25h[59;49H[?25lsystemtap-init.el (source)...[K[H
+[?12l[?25h[?12;25h[59;78H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[59d[?25lLoading /usr/share/emacs/site-lisp/site-start.d/systemtap-init.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                                                                                                                                         [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UUU:----F1  [0m[39;49m[27m[7m[1m*scratch*   [0m[39;49m[27m[7m   All L1     (Lisp Interaction) ----------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lFor information about GNU Emacs and the GNU system, type C-h C-a.[K[H
+[?12l[?25h[?12;25h[59d[?25lLoading cc-langs...[K[H
+[?12l[?25h[?12;25h[59;20H[?25ldone[H
+[?12l[?25h[?12;25h[59d[?25lLoading cc-langs...done[K[H[7mFile Edit Options Buffers Tools C++ Help                                                                                                                                                                      [0m[39;49m[27m
+[A
+[1m[34m#include[0m[39;49m [32m<stdio.h>[39;49m[K
+[K
+[1m[36musing[0m[39;49m [1m[36mnamespace[0m[39;49m [35mstd[39;49m;[K
+[K
+[32mint[39;49m [1m[34mmain[0m[39;49m()[K
+{[K
+[K
+  cout << [32m"Hello World "[39;49m << endl;[K
+[K
+  [1m[36mreturn[0m[39;49m 0;[K
+}[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[7m-UU-:----F1  [0m[39;49m[27m[7m[1mmain.cc     [0m[39;49m[27m[7m   All L1     (C++/l Abbrev) --------------------------------------------------------------------------------------------------------------------------------------------------------[0m[39;49m[27m
+[A[2d[?12l[?25h[?12;25h[59d[?25lBeginning of buffer[K[H
+[?12l[?25h[?12;25h[59d[K[58;34H[?25l[7m2[0m[39;49m[27m[H
+
+[?12l[?25h[?12;25h[58;34H[?25l[7m3[0m[39;49m[27m[4;1H[?12l[?25h[?12;25h[58;34H[?25l[7m2[0m[39;49m[27m[H
+
+[?12l[?25h[?12;25h[58;34H[?25l[7m1[0m[39;49m[27m[H
+[?12l[?25h[?12;25h[C[C[2;5H[C[C		[C[C[2;13H		[C[C[?25l[32m>[39;49m[K[58;6H[7m**[0m[39;49m[27m[H
+		[?12l[?25h[?12;25h[?25l[32m>[39;49m[K[?12l[?25h[?12;25h[?25l[32m>[39;49m[K[?12l[?25h[?12;25h[?25l[32m>[39;49m[K[?12l[?25h[?12;25h[?25l[32m>[39;49m[K[?12l[?25h[?12;25h[?25l[32m>[39;49m[K[?12l[?25h[?12;25h[?25l[32m>[39;49m[K[?12l[?25h[?12;25h[?25l[32mi>[39;49m[?12l[?25h[?12;25h[?25l[32mo>[39;49m[?12l[?25h[?12;25h[?25l[32ms>[39;49m[?12l[?25h[?12;25h[?25l[32mt>[39;49m[?12l[?25h[?12;25h[?25l[32mr>[39;49m[?12l[?25h[?12;25h[?25l[32me>[39;49m[?12l[?25h[?12;25h[?25l[32ma>[39;49m[?12l[?25h[?12;25h[?25l[32mm>[39;49m[?12l[?25h[?12;25h[58;34H[?25l[7m2[0m[39;49m[27m[H
+
+[?12l[?25h[?12;25h[58;34H[?25l[7m3[0m[39;49m[27m[4;19H[?12l[?25h[?12;25h[58;34H[?25l[7m4[0m[39;49m[27m[5;1H[?12l[?25h[?12;25h[59d[?25l[34mSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) [39;49m[?12l[?25h[?12;25h[?25lSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) C-v[?12l[?25h[?12;25h[?25lEnd of buffer[K[5;1H[?12l[?25h[?12;25h[59d[K[5d[59d[?25l[34mSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) [39;49m[?12l[?25h[?12;25h[?25lSave file /home/010/m/ma/mad190003/main.cc? (y, n, !, ., q, C-r, d or C-h) y[?12l[?25h[?12;25h[59;4H[?25ling file /home/010/m/ma/mad190003/main.cc...[K[5;1H[?12l[?25h[?12;25h[59d[?25lWrote /home/010/m/ma/mad190003/main.cc[K[5;1H[?12l[?25h[?12;25h[59d[K[5d[59d[K[?1l>[?12l[?25h[?1049l[39;49m]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} g++ main.cc
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} ls-[K -al
+total 2032
+drwx--x--x   8 mad190003 se      892 Feb  6 15:12 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rwx--x--x   1 mad190003 se     9008 Feb  6 15:12 a.out
+-rw-------   1 mad190003 se      279 Feb  6 15:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+drwx------   3 mad190003 se       32 Feb  6 14:52 .emacs.d
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-------   1 mad190003 se      107 Feb  6 15:12 main.cc
+-rw-------   1 mad190003 se      106 Feb  6 15:07 main.cc~
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-------   1 mad190003 se        0 Feb  6 14:24 script.timinh
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se    90112 Feb  6 15:11 typescript
+-rw-------   1 mad190003 se       67 Feb  6 15:09 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
+-rw-r--r--   1 mad190003 se     6733 Nov 28  2019 .Xdefaults.maker
+-rw-r--r--   1 mad190003 se     1384 Nov 28  2019 .xserverrc
+-rw-r--r--   1 mad190003 se      393 Nov 28  2019 .xsession
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} .\[K|[K?[K/ [Kmain
+bash: ./main: No such file or directory
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} .?[K/maion[K[Kn.cc
+bash: ./main.cc: Permission denied
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} more [K[K[K[K[Kemca[K[Kacs [K[K[K[K[K[Kg++ <main.cc>
+bash: syntax error near unexpected token `newline'
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} g++ mainc[K,[K.cc
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} g++ oc[K[K-c main,cc[K[K[K.cc
+]2;cslinux1.utdallas.edu:/home/010/m/ma/mad190003{cslinux1:~} ls -al
+total 2080
+drwx--x--x   8 mad190003 se      916 Feb  6 15:19 .
+drwxr-xr-x 889 root      wheel 24720 Jan 26 08:11 ..
+-rwx--x--x   1 mad190003 se     9008 Feb  6 15:18 a.out
+-rw-------   1 mad190003 se      279 Feb  6 15:09 .bash_history
+-rw-r--r--   1 mad190003 se     6744 Nov 28  2019 .bash_profile
+-rw-r--r--   1 mad190003 se     2537 Nov 28  2019 .bashrc
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .cache
+drwxr-xr-x   3 mad190003 se       22 Feb  6 14:06 .config
+-rw-r--r--   1 mad190003 se     3859 Nov 28  2019 .cshrc
+-rw-r--r--   1 mad190003 se       94 Nov 28  2019 .defaults
+-rw-r--r--   1 mad190003 se     4766 Nov 28  2019 .elmrc
+drwx------   3 mad190003 se       32 Feb  6 14:52 .emacs.d
+-rw-r--r--   1 mad190003 se       16 Nov 28  2019 .exrc
+-r--r--r--   1 mad190003 se    12239 Nov 28  2019 .fvwm2rc
+drwxr-xr-x   3 mad190003 se       23 Feb  6 14:06 .local
+-rw-r--r--   1 mad190003 se     6024 Nov 28  2019 .login
+-rw-r--r--   1 mad190003 se      106 Nov 28  2019 .logout
+-rw-------   1 mad190003 se      107 Feb  6 15:12 main.cc
+-rw-------   1 mad190003 se      106 Feb  6 15:07 main.cc~
+-rw-------   1 mad190003 se     2656 Feb  6 15:19 main.o
+-rw-r--r--   1 mad190003 se      515 Nov 28  2019 .path
+drwxr-xr-x   2 mad190003 se        0 Feb  6 14:06 perl5
+-rw-r--r--   1 mad190003 se       23 Nov 28  2019 .plan
+-rw-r--r--   1 mad190003 se     8113 Nov 28  2019 .profile
+drwx--x--x   2 mad190003 se        0 Nov 28  2019 public_html
+-rw-r--r--   1 mad190003 se     3406 Nov 28  2019 .qtermtab
+-rw-------   1 mad190003 se        0 Feb  6 14:20 script.timing
+-rw-------   1 mad190003 se        0 Feb  6 14:24 script.timinh
+-rw-r--r--   1 mad190003 se      906 Nov 28  2019 .setow
+-rw-r--r--   1 mad190003 se      804 Nov 28  2019 .setx
+-rw-r--r--   1 mad190003 se      381 Nov 28  2019 .tcshrc
+-rw-------   1 mad190003 se    90112 Feb  6 15:11 typescript
+-rw-------   1 mad190003 se       67 Feb  6 15:09 .Xauthority
+-rw-r--r--   1 mad190003 se     6797 Nov 28  2019 .Xdefaults
