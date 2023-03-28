@@ -1,7 +1,5 @@
 #Filename: Makefile
 #Date: 03/12/2021
-#Author: Marco Delgado
-#Email: mad190003@utdallas.edu
 #course: CS3377.0W6 Spring 2021 
 #Copyright 2021, all rights reserved
 #Description: Makefile that will compile main4 and have the clean target to remove files and objects
