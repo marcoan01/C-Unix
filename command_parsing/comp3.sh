@@ -2,8 +2,6 @@
 #Filename: comp3.sh
 #Date: 02/15/2021
 #Author: Marco Delgado
-#email: mad190003@utdallas.edu
-#course: CS3377.OW6 Spring 2021
 #Copyright 2021, All rights reserved
 #Description: This shell script will create an object called myprogram3 by including all the .cc files needed to run it 
 #
