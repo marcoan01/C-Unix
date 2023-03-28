@@ -2,8 +2,6 @@
  *Filename: main2.cc
  *Date: 02/15/2021
  *Author: Marco Delgado
- *email: mad190003@utdallas.edu
- *Course: CS3377.0W6 Spring 2021
  *Version: 1.0
  *Copyright 2021, All rights reserved
  *Description:  This is the main function. It will create the TCLAP objects. Add them to the CMD object. Call the processing and mapping functions
