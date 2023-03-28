@@ -2,8 +2,6 @@
  *Filename: file1.cc
  *Date: 02/07/2021
  *Autor: Marco Delgado
- *mad190003@utdallas.edu
- *Course: CS 3377.OW6 Spring 2021
  *Version 1.0
  *Copyright 2021, All rights reserved
  *Description:
