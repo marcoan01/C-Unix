@@ -1,0 +1,4 @@
+#!/bin/awk -f
+{sum1 +=  $1}
+{sum4 += $4}
+END {print sum1, sum4}
