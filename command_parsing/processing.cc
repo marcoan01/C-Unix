@@ -2,8 +2,6 @@
  *Filename: processing.cc
  *Date: 02/15/2021
  *Author: Marco Delgado
- *email: mad190003@utdallas.edu
- *Course: CS3377.OW6 Spring 2021
  *Version: 1.0
  *Copyright 2021, All rights reserved 
  *Description: This function will open the files required. transfer the data and then close them
